@@ -1,0 +1,192 @@
+19:09:32,676 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+19:09:32,829 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+19:09:32,830 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+19:09:32,837 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+19:09:32,838 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+19:09:32,842 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+19:09:32,843 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+19:09:32,847 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+19:09:32,847 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+19:09:32,858 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+19:09:32,858 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+19:09:32,862 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+19:09:32,863 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+19:09:32,868 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+19:09:32,868 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+19:09:32,869 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=104 ms, enhance=82 ms, total=186 ms. Consult the log for full details
+19:15:25,596 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+19:15:25,750 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+19:15:25,751 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+19:15:25,758 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+19:15:25,759 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+19:15:25,763 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+19:15:25,764 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+19:15:25,768 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+19:15:25,769 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+19:15:25,773 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+19:15:25,774 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+19:15:25,778 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+19:15:25,778 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+19:15:25,783 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+19:15:25,783 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+19:15:25,784 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=108 ms, enhance=74 ms, total=182 ms. Consult the log for full details
+19:15:49,120 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+19:15:49,267 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+19:15:49,276 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+19:15:49,283 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+19:15:49,284 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+19:15:49,288 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+19:15:49,289 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+19:15:49,293 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+19:15:49,293 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+19:15:49,304 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+19:15:49,304 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+19:15:49,308 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+19:15:49,309 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+19:15:49,314 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+19:15:49,314 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+19:15:49,315 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=98 ms, enhance=91 ms, total=189 ms. Consult the log for full details
+19:21:49,205 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+19:21:49,358 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+19:21:49,359 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+19:21:49,366 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+19:21:49,367 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+19:21:49,371 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+19:21:49,371 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+19:21:49,375 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+19:21:49,376 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+19:21:49,381 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+19:21:49,381 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+19:21:49,385 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+19:21:49,386 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+19:21:49,390 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+19:21:49,391 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+19:21:49,392 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=107 ms, enhance=75 ms, total=182 ms. Consult the log for full details
+19:22:32,273 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+19:22:32,417 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+19:22:32,418 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+19:22:32,425 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+19:22:32,425 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+19:22:32,430 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+19:22:32,430 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+19:22:32,434 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+19:22:32,435 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+19:22:32,446 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+19:22:32,446 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+19:22:32,450 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+19:22:32,451 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+19:22:32,455 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+19:22:32,456 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+19:22:32,457 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=98 ms, enhance=80 ms, total=178 ms. Consult the log for full details
+19:36:19,837 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+19:36:19,989 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+19:36:19,989 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+19:36:19,997 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+19:36:19,997 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+19:36:20,002 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+19:36:20,002 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+19:36:20,006 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+19:36:20,007 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+19:36:20,011 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+19:36:20,012 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+19:36:20,016 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+19:36:20,016 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+19:36:20,021 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+19:36:20,021 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+19:36:20,022 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=105 ms, enhance=75 ms, total=180 ms. Consult the log for full details
+19:42:12,537 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+19:42:12,689 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+19:42:12,690 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+19:42:12,697 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+19:42:12,698 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+19:42:12,702 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+19:42:12,703 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+19:42:12,707 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+19:42:12,707 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+19:42:12,712 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+19:42:12,713 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+19:42:12,717 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+19:42:12,717 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+19:42:12,722 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+19:42:12,722 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+19:42:12,723 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=105 ms, enhance=75 ms, total=180 ms. Consult the log for full details
+19:49:53,458 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+19:49:53,615 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+19:49:53,616 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+19:49:53,623 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+19:49:53,623 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+19:49:53,628 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+19:49:53,628 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+19:49:53,632 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+19:49:53,633 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+19:49:53,638 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+19:49:53,638 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+19:49:53,642 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+19:49:53,643 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+19:49:53,647 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+19:49:53,648 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+19:49:53,649 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=107 ms, enhance=75 ms, total=182 ms. Consult the log for full details
+20:04:40,255 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+20:04:40,420 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+20:04:40,421 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+20:04:40,428 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+20:04:40,429 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+20:04:40,433 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+20:04:40,434 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+20:04:40,443 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+20:04:40,444 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+20:04:40,449 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+20:04:40,450 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+20:04:40,453 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+20:04:40,453 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+20:04:40,458 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+20:04:40,459 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+20:04:40,459 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=118 ms, enhance=81 ms, total=199 ms. Consult the log for full details
+20:05:13,358 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+20:05:13,510 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+20:05:13,511 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+20:05:13,518 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+20:05:13,519 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+20:05:13,523 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+20:05:13,524 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+20:05:13,533 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+20:05:13,533 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+20:05:13,538 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+20:05:13,539 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+20:05:13,544 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+20:05:13,545 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+20:05:13,549 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+20:05:13,550 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+20:05:13,551 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=105 ms, enhance=81 ms, total=186 ms. Consult the log for full details
+20:29:20,285 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+20:29:20,439 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+20:29:20,440 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+20:29:20,447 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+20:29:20,447 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+20:29:20,452 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+20:29:20,452 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+20:29:20,456 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+20:29:20,457 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+20:29:20,462 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+20:29:20,462 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+20:29:20,466 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+20:29:20,467 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+20:29:20,471 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+20:29:20,472 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+20:29:20,473 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=106 ms, enhance=76 ms, total=182 ms. Consult the log for full details
+20:29:35,120 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (version 5.2.7) for API "JDO"
+20:29:35,265 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador.class" with enhanced definition
+20:29:35,266 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+20:29:35,273 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Equipo.class" with enhanced definition
+20:29:35,274 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+20:29:35,278 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Investigador_Equipo.class" with enhanced definition
+20:29:35,278 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+20:29:35,289 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Avance.class" with enhanced definition
+20:29:35,289 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+20:29:35,294 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Organizacion.class" with enhanced definition
+20:29:35,294 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+20:29:35,298 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Tematica.class" with enhanced definition
+20:29:35,299 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+20:29:35,303 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/SoftwareDesign_Server/target/classes/server/LD/Proyecto.class" with enhanced definition
+20:29:35,304 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+20:29:35,305 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 7 classes. Timings : input=99 ms, enhance=80 ms, total=179 ms. Consult the log for full details
