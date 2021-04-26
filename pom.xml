@@ -8,7 +8,7 @@
     <version>3.0</version>
 
     <properties>
-        <config.files.dir>src/resources</config.files.dir>
+        <config.files.dir>src/server/resources</config.files.dir>
         <encoding>UTF-8</encoding>
         <server.IP>127.0.0.1</server.IP>
         <server.Port>1099</server.Port>

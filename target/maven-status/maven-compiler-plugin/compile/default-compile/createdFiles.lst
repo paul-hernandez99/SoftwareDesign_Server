@@ -1,0 +1,10 @@
+server/datos/Investigador_Equipo.class
+server/datos/Proyecto.class
+server/remote/Server.class
+server/datos/Equipo.class
+server/datos/Tematica.class
+server/datos/Investigador.class
+server/datos/Avance.class
+server/remote/IServer.class
+server/datos/Organizacion.class
+server/appService/AppService.class

@@ -1,4 +1,4 @@
-package server.LD;
+package server.datos;
 
 import javax.jdo.annotations.IdGeneratorStrategy;
 import javax.jdo.annotations.PersistenceCapable;
