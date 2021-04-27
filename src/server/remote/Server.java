@@ -5,7 +5,7 @@ import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
-
+import java.util.ArrayList;
 import server.appService.AppService;
 
 import server.remote.IServer;
@@ -27,8 +27,8 @@ public class Server extends UnicastRemoteObject implements IServer {
   }
 
   @Override
-  public String operacionEjemplo() throws RemoteException{
-    return appService.operacionEjemplo();
+  public String descarga(ArrayList <String> arrayParams) throws RemoteException{
+    return appService.descarga(arrayParams);
   }
 
   public static void main(String [] args) {
