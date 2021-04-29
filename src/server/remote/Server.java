@@ -28,7 +28,7 @@ public class Server extends UnicastRemoteObject implements IServer {
 
   @Override
   public String descarga(ArrayList <String> arrayParams) throws RemoteException{
-    return appService.descarga(arrayParams);
+    return appService.obtenerUsuarios(arrayParams);
   }
 
   public static void main(String [] args) {
