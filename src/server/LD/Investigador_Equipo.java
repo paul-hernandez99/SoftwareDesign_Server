@@ -1,4 +1,4 @@
-package server.datos;
+package server.LD;
 import javax.jdo.annotations.*;
 import java.util.Date;
 
