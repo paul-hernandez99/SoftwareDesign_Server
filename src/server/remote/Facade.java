@@ -1,6 +1,5 @@
 package server.remote;
 
-import java.rmi.Naming;
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
@@ -8,13 +7,11 @@ import java.rmi.server.UnicastRemoteObject;
 import java.util.ArrayList;
 import server.appService.AppService;
 
-import server.remote.IServer;
-
-public class Server extends UnicastRemoteObject implements IServer {
+public class Facade extends UnicastRemoteObject implements IFacade {
 
   private AppService appService;
 
-	protected Server() throws RemoteException
+	protected Facade() throws RemoteException
 	{
 		super();
     this.appService = new AppService();
@@ -37,7 +34,7 @@ public class Server extends UnicastRemoteObject implements IServer {
 
 		try
 		{
-			IServer server = new Server();
+			IFacade server = new Facade();
 			Registry registry = LocateRegistry.createRegistry((Integer.valueOf(args[1])));
 			registry.rebind(name, server);
 			System.out.println("* Server '" + name + "' active and waiting...");

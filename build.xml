@@ -22,7 +22,7 @@
 	<echo message="plugin classpath:  ${plugin_classpath}"/>
 
 	<target name="server" description="Runs the Server">
-	  <java classname="server.remote.Server" classpath="${runtime_classpath}" fork="true">
+	  <java classname="server.remote.Facade" classpath="${runtime_classpath}" fork="true">
 	    <jvmarg value="-Djava.rmi.server.codebase=file:${compile_classpath}/"/>
 	    <jvmarg value="-Djava.security.policy=${policy.file}"/>
       <arg value="${server.IP}"/>
