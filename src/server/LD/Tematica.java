@@ -17,7 +17,7 @@ public class Tematica {
     String area=null;
 
     @Persistent(mappedBy="tematica")
-    Set<Proyecto> proyecto = new HashSet<Proyecto>();
+    Set<Repositorio> repositorio = new HashSet<Repositorio>();
 
     public long getId_tematica() { return id_tematica; }
     public void setId_tematica(long id_tematica) { this.id_tematica = id_tematica; }
@@ -28,8 +28,8 @@ public class Tematica {
     public String getArea() { return area; }
     public void setArea(String area) { this.area = area; }
 
-    public Set<Proyecto> getProyecto() { return proyecto; }
-    public void setProyecto(Set<Proyecto> proyecto) { this.proyecto = proyecto; }
+    public Set<Repositorio> getRepositorio() { return repositorio; }
+    public void setRepositorio(Set<Repositorio> repositorio) { this.repositorio = repositorio; }
 
     public Tematica(String nombre, String area) {
         this.nombre = nombre;

@@ -28,7 +28,7 @@ public class Equipo {
     Set<Equipo> equipo = new HashSet<Equipo>();
 
     @Persistent(mappedBy="equipo")
-    Set<Proyecto> proyecto = new HashSet<Proyecto>();
+    Set<Repositorio> repositorio = new HashSet<Repositorio>();
 
     @Persistent(mappedBy="equipo")
     Set<Investigador_Equipo> investigador_equipo = new HashSet<Investigador_Equipo>();
@@ -36,8 +36,8 @@ public class Equipo {
     public Set<Investigador_Equipo> getInvestigador_Equipo() { return investigador_equipo; }
     public void setInvestigador_Equipo(Set<Investigador_Equipo> investigador_equipo) { this.investigador_equipo = investigador_equipo; }
 
-    public Set<Proyecto> getProyecto() { return proyecto; }
-    public void setProyecto(Set<Proyecto> proyecto) { this.proyecto = proyecto; }
+    public Set<Repositorio> getRepositorio() { return repositorio; }
+    public void setRepositorio(Set<Repositorio> repositorio) { this.repositorio = repositorio; }
 
     public Set<Equipo> getEquipo() { return equipo; }
     public void setEquipo(Set<Equipo> equipo) { this.equipo = equipo; }

@@ -15,8 +15,8 @@ public class Avance {
     @Column(name="id_investigador")
     Investigador investigador;
 
-    @Column(name="id_proyecto")
-    Proyecto proyecto;
+    @Column(name="id_repositorio")
+    Repositorio repositorio;
 
     public long getId_avance() { return id_avance; }
     public void setId_avance(long id_avance) { this.id_avance = id_avance; }
@@ -27,8 +27,8 @@ public class Avance {
     public Investigador getInvestigador() { return investigador; }
     public void setInvestigador(Investigador investigador) { this.investigador = investigador; }
 
-    public Proyecto getProyecto() { return proyecto; }
-    public void setProyecto(Proyecto proyecto) { this.proyecto = proyecto; }
+    public Repositorio getRepositorio() { return repositorio; }
+    public void setRepositorio(Repositorio repositorio) { this.repositorio = repositorio; }
 
     public Avance(Date fec_avance)
     {
