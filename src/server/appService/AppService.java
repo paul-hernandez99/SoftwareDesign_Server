@@ -5,32 +5,29 @@ import server.gateway.IGithubRestClient;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import server.dao.IDAO;
+import server.dao.DAO;
 
 public class AppService {
 
   private IGithubRestClient restClient;
+  private ArrayList<HashMap<String, String>> res;
+  private IDAO IDao;
 
   public AppService() {
-
+    this.IDao = (IDAO) new DAO();
     this.restClient = (IGithubRestClient) new GithubRestClient();
   }
 
-  public String obtenerUsuarios(ArrayList<String> arrayParams) {
-
-    String name = "";
+  public String obtenerUsuarios() {
 
     try {
-
-      HashMap<String, String> res = restClient.obtenerUsuarios();
-      System.out.println(res);
-      name = (String)res.get("login");
-
+      this.res = restClient.obtenerUsuarios();
+      this.IDao.uploadInvestigadores(this.res);
 
     } catch (Exception e) {
-
       System.out.println("Catched exception: " + e.getMessage());
     }
-
-    return name;
+    return "Correct!";
   }
 }

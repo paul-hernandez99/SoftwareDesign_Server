@@ -1,9 +1,10 @@
 package server.gateway;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 
 public interface IGithubRestClient {
 
-  public HashMap<String, String> obtenerUsuarios() throws Exception;
+  public ArrayList<HashMap<String, String>> obtenerUsuarios() throws Exception;
 
 }

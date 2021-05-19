@@ -56,12 +56,11 @@ public class Investigador {
     public void setFec_alta(Date fec_alta) { this.fec_alta = fec_alta; }
 
 
-    public Investigador(String nombre, String apellido1, String apellido2, int edad, Date fec_alta) {
+    public Investigador(String nombre, String apellido1, String apellido2, int edad) {
         this.nombre = nombre;
         this.apellido1 = apellido1;
         this.apellido2 = apellido2;
         this.edad = edad;
-        this.fec_alta = fec_alta;
     }
 
 }

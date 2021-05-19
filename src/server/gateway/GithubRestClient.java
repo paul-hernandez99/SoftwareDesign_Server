@@ -12,6 +12,7 @@ import javax.ws.rs.core.Response;
 import javax.ws.rs.core.Response.Status;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
+import java.util.ArrayList;
 
 import server.gateway.IGithubRestClient;
 
@@ -31,17 +32,19 @@ public class GithubRestClient implements IGithubRestClient {
       webTarget = client.target(String.format(this.url + "/" + accessPoint ));
     }
 
-    private HashMap<String, String> makeGetRequest() throws Exception {
+    private ArrayList<HashMap<String, String>> makeGetRequest() throws Exception {
 
       WebTarget getRequestController = this.webTarget.path("");
       Invocation.Builder invocationBuilder = getRequestController.request(MediaType.APPLICATION_JSON);
       Response response = invocationBuilder.get();
 
       if (response.getStatus() == Status.OK.getStatusCode()) {
-
+        ArrayList<HashMap<String, String>> usuarios = new ArrayList();
         JSONArray array = response.readEntity(JSONArray.class);
-        HashMap<String, String> object1 = (HashMap<String, String>)array.get(0);
-        return object1;
+        for(int i=0; i<10; i++) {
+          usuarios.add((HashMap<String, String>)array.get(i));
+        }
+        return usuarios;
 
       } else {
 
@@ -50,7 +53,7 @@ public class GithubRestClient implements IGithubRestClient {
     }
 
     @Override
-    public HashMap<String, String> obtenerUsuarios() throws Exception {
+    public ArrayList<HashMap<String, String>> obtenerUsuarios() throws Exception {
 
       this.changeAccessPoint("users");
       return this.makeGetRequest();
