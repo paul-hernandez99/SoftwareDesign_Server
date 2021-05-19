@@ -39,12 +39,13 @@ public class GithubRestClient implements IGithubRestClient {
       Response response = invocationBuilder.get();
 
       if (response.getStatus() == Status.OK.getStatusCode()) {
-        ArrayList<HashMap<String, String>> usuarios = new ArrayList();
+        ArrayList<HashMap<String, String>> datos = new ArrayList();
         JSONArray array = response.readEntity(JSONArray.class);
         for(int i=0; i<10; i++) {
-          usuarios.add((HashMap<String, String>)array.get(i));
+          datos.add((HashMap<String, String>)array.get(i));
+          System.out.println(array.get(i));
         }
-        return usuarios;
+        return datos;
 
       } else {
 
@@ -57,5 +58,12 @@ public class GithubRestClient implements IGithubRestClient {
 
       this.changeAccessPoint("users");
       return this.makeGetRequest();
+    }
+
+    @Override
+    public ArrayList<HashMap<String, String>> obtenerOrganizaciones() throws Exception {
+
+        this.changeAccessPoint("organizations");
+        return this.makeGetRequest();
     }
 }

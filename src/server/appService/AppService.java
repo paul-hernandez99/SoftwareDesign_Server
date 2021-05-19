@@ -17,7 +17,7 @@ public class AppService {
   private static AppService appservice = new AppService();//Singleton
 
   private AppService() {
-    this.IDao = (IDAO) new DAO();
+
     this.restClient = (IGithubRestClient) new GithubRestClient();
   }
   //Método para obtener instancia única del appService
@@ -30,11 +30,25 @@ public class AppService {
 
     try {
       this.res = restClient.obtenerUsuarios();
+      this.IDao = (IDAO) new DAO();
       this.IDao.uploadInvestigadores(this.res);
 
     } catch (Exception e) {
       System.out.println("Catched exception: " + e.getMessage());
     }
     return "Correct!";
+  }
+
+  public String obtenerOrganizaciones() {
+
+    try {
+      this.res = restClient.obtenerOrganizaciones();
+      this.IDao = (IDAO) new DAO();
+      this.IDao.uploadOrganizaciones(this.res);
+
+    } catch (Exception e) {
+      System.out.println("Catched exception: " + e.getMessage());
+    }
+    return "Correct download organizations!";
   }
 }

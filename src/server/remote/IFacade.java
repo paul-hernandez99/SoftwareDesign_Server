@@ -7,6 +7,6 @@ import java.util.ArrayList;
 public interface IFacade extends Remote{
 
   String sayHello() throws RemoteException;
-  String descarga() throws RemoteException;
-
+  String descargarUsuarios() throws RemoteException;
+  String descargarOrganizaciones() throws RemoteException;
 }

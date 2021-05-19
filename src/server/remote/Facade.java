@@ -21,9 +21,14 @@ public class Facade extends UnicastRemoteObject implements IFacade {
   }
 
   @Override
-  public String descarga() throws RemoteException{
+  public String descargarUsuarios() throws RemoteException{
     return AppService.getInstance().obtenerUsuarios();
   }
+
+  @Override
+  public String descargarOrganizaciones() throws RemoteException {
+		return AppService.getInstance().obtenerOrganizaciones();
+	}
 
   public static void main(String [] args) {
 
