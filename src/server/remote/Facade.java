@@ -9,12 +9,9 @@ import server.appService.AppService;
 
 public class Facade extends UnicastRemoteObject implements IFacade {
 
-  private AppService appService;
-
 	protected Facade() throws RemoteException
 	{
 		super();
-    this.appService = new AppService();
 	}
 
   @Override
@@ -25,7 +22,7 @@ public class Facade extends UnicastRemoteObject implements IFacade {
 
   @Override
   public String descarga() throws RemoteException{
-    return appService.obtenerUsuarios();
+    return AppService.getInstance().obtenerUsuarios();
   }
 
   public static void main(String [] args) {

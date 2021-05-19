@@ -14,9 +14,16 @@ public class AppService {
   private ArrayList<HashMap<String, String>> res;
   private IDAO IDao;
 
-  public AppService() {
+  private static AppService appservice = new AppService();//Singleton
+
+  private AppService() {
     this.IDao = (IDAO) new DAO();
     this.restClient = (IGithubRestClient) new GithubRestClient();
+  }
+  //Método para obtener instancia única del appService
+  public static AppService getInstance()
+  {
+    return appservice;
   }
 
   public String obtenerUsuarios() {

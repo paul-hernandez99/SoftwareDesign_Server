@@ -314,3 +314,228 @@
 17:02:29,348 (main) INFO  [DataNucleus.Enhancer] - Writing class file "/home/fer/Desktop/software_design/SoftwareDesign_Project/SoftwareDesign_Server/target/classes/server/LD/Repositorio.class" with enhanced definition
 17:02:29,349 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
 17:02:29,350 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer completed with success for 8 classes. Timings : input=157 ms, enhance=94 ms, total=251 ms. Consult the log for full details
+18:18:54,527 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+18:18:54,777 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+18:18:54,777 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+18:18:54,777 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+18:18:54,777 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+18:18:54,793 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+18:18:54,793 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+18:18:54,793 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+18:18:54,793 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+18:18:54,808 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+18:18:54,808 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+18:18:54,808 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+18:18:54,808 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+18:18:54,824 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+18:18:54,824 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+18:18:54,824 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+18:18:54,824 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+18:18:54,840 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=172 ms, enhance=109 ms, total=281 ms. Compruebe el LOG para los detalles
+18:19:54,511 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+18:19:54,754 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+18:19:54,754 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+18:19:54,754 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+18:19:54,754 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+18:19:54,770 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+18:19:54,770 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+18:19:54,770 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+18:19:54,770 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+18:19:54,786 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+18:19:54,786 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+18:19:54,786 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+18:19:54,786 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+18:19:54,801 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+18:19:54,801 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+18:19:54,801 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+18:19:54,817 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+18:19:54,817 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=166 ms, enhance=125 ms, total=291 ms. Compruebe el LOG para los detalles
+18:23:23,434 (RMI TCP Connection(4)-192.168.187.1) ERROR [DataNucleus.Datastore.Schema] - Una excepcion estaba tirada durante la addicion/validacion de algunas class(es) : Could not retrieve transaction read-only status from server
+Could not retrieve transaction read-only status from server
+org.datanucleus.exceptions.NucleusDataStoreException: Could not retrieve transaction read-only status from server
+	at org.datanucleus.store.rdbms.ConnectionFactoryImpl$ManagedConnectionImpl.getConnection(ConnectionFactoryImpl.java:472)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.getCurrentConnection(AbstractSchemaTransaction.java:86)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.performTablesValidation(RDBMSStoreManager.java:3424)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2946)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.manageClasses(RDBMSStoreManager.java:1643)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.getDatastoreClass(RDBMSStoreManager.java:646)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.getPropertiesForValueGenerator(RDBMSStoreManager.java:2074)
+	at org.datanucleus.store.AbstractStoreManager.getValueGeneratorForMember(AbstractStoreManager.java:1001)
+	at org.datanucleus.store.AbstractStoreManager.getValueGenerationStrategyValue(AbstractStoreManager.java:855)
+	at org.datanucleus.state.StateManagerImpl.populateValueGenerationFields(StateManagerImpl.java:755)
+	at org.datanucleus.state.StateManagerImpl.initialiseForPersistentNew(StateManagerImpl.java:498)
+	at org.datanucleus.state.StateManagerImpl.initialiseForPersistentNew(StateManagerImpl.java:126)
+	at org.datanucleus.state.ObjectProviderFactoryImpl.newForPersistentNew(ObjectProviderFactoryImpl.java:205)
+	at org.datanucleus.ExecutionContextImpl.persistObjectInternal(ExecutionContextImpl.java:2025)
+	at org.datanucleus.ExecutionContextImpl.persistObjectWork(ExecutionContextImpl.java:1869)
+	at org.datanucleus.ExecutionContextImpl.persistObject(ExecutionContextImpl.java:1724)
+	at org.datanucleus.api.jdo.JDOPersistenceManager.jdoMakePersistent(JDOPersistenceManager.java:715)
+	at org.datanucleus.api.jdo.JDOPersistenceManager.makePersistent(JDOPersistenceManager.java:740)
+	at server.dao.DAO.uploadInvestigadores(DAO.java:61)
+	at server.appService.AppService.obtenerUsuarios(AppService.java:26)
+	at server.remote.Facade.descarga(Facade.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:357)
+	at sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:573)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:835)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:688)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:687)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.sql.SQLException: Could not retrieve transaction read-only status from server
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:898)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:887)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:861)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:878)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:874)
+	at com.mysql.jdbc.ConnectionImpl.isReadOnly(ConnectionImpl.java:3552)
+	at com.mysql.jdbc.ConnectionImpl.isReadOnly(ConnectionImpl.java:3521)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.DelegatingConnection.isReadOnly(DelegatingConnection.java:461)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.DelegatingConnection.isReadOnly(DelegatingConnection.java:461)
+	at org.datanucleus.store.rdbms.ConnectionFactoryImpl$ManagedConnectionImpl.getConnection(ConnectionFactoryImpl.java:417)
+	... 38 more
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 200.553 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990)
+	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3559)
+	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3459)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3900)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2480)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2438)
+	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1381)
+	at com.mysql.jdbc.ConnectionImpl.isReadOnly(ConnectionImpl.java:3546)
+	... 42 more
+Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:3011)
+	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3469)
+	... 50 more
+Nested Throwables StackTrace:
+java.sql.SQLException: Could not retrieve transaction read-only status from server
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:965)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:898)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:887)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:861)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:878)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:874)
+	at com.mysql.jdbc.ConnectionImpl.isReadOnly(ConnectionImpl.java:3552)
+	at com.mysql.jdbc.ConnectionImpl.isReadOnly(ConnectionImpl.java:3521)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.DelegatingConnection.isReadOnly(DelegatingConnection.java:461)
+	at org.datanucleus.store.rdbms.datasource.dbcp2.DelegatingConnection.isReadOnly(DelegatingConnection.java:461)
+	at org.datanucleus.store.rdbms.ConnectionFactoryImpl$ManagedConnectionImpl.getConnection(ConnectionFactoryImpl.java:417)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.getCurrentConnection(AbstractSchemaTransaction.java:86)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.performTablesValidation(RDBMSStoreManager.java:3424)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager$ClassAdder.run(RDBMSStoreManager.java:2946)
+	at org.datanucleus.store.rdbms.AbstractSchemaTransaction.execute(AbstractSchemaTransaction.java:118)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.manageClasses(RDBMSStoreManager.java:1643)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.getDatastoreClass(RDBMSStoreManager.java:646)
+	at org.datanucleus.store.rdbms.RDBMSStoreManager.getPropertiesForValueGenerator(RDBMSStoreManager.java:2074)
+	at org.datanucleus.store.AbstractStoreManager.getValueGeneratorForMember(AbstractStoreManager.java:1001)
+	at org.datanucleus.store.AbstractStoreManager.getValueGenerationStrategyValue(AbstractStoreManager.java:855)
+	at org.datanucleus.state.StateManagerImpl.populateValueGenerationFields(StateManagerImpl.java:755)
+	at org.datanucleus.state.StateManagerImpl.initialiseForPersistentNew(StateManagerImpl.java:498)
+	at org.datanucleus.state.StateManagerImpl.initialiseForPersistentNew(StateManagerImpl.java:126)
+	at org.datanucleus.state.ObjectProviderFactoryImpl.newForPersistentNew(ObjectProviderFactoryImpl.java:205)
+	at org.datanucleus.ExecutionContextImpl.persistObjectInternal(ExecutionContextImpl.java:2025)
+	at org.datanucleus.ExecutionContextImpl.persistObjectWork(ExecutionContextImpl.java:1869)
+	at org.datanucleus.ExecutionContextImpl.persistObject(ExecutionContextImpl.java:1724)
+	at org.datanucleus.api.jdo.JDOPersistenceManager.jdoMakePersistent(JDOPersistenceManager.java:715)
+	at org.datanucleus.api.jdo.JDOPersistenceManager.makePersistent(JDOPersistenceManager.java:740)
+	at server.dao.DAO.uploadInvestigadores(DAO.java:61)
+	at server.appService.AppService.obtenerUsuarios(AppService.java:26)
+	at server.remote.Facade.descarga(Facade.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sun.rmi.server.UnicastServerRef.dispatch(UnicastServerRef.java:357)
+	at sun.rmi.transport.Transport$1.run(Transport.java:200)
+	at sun.rmi.transport.Transport$1.run(Transport.java:197)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.Transport.serviceCall(Transport.java:196)
+	at sun.rmi.transport.tcp.TCPTransport.handleMessages(TCPTransport.java:573)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run0(TCPTransport.java:835)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.lambda$run$0(TCPTransport.java:688)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at sun.rmi.transport.tcp.TCPTransport$ConnectionHandler.run(TCPTransport.java:687)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure
+
+The last packet successfully received from the server was 200.553 milliseconds ago.  The last packet sent successfully to the server was 0 milliseconds ago.
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.SQLError.createCommunicationsException(SQLError.java:990)
+	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3559)
+	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3459)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3900)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2527)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2680)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2480)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2438)
+	at com.mysql.jdbc.StatementImpl.executeQuery(StatementImpl.java:1381)
+	at com.mysql.jdbc.ConnectionImpl.isReadOnly(ConnectionImpl.java:3546)
+	... 42 more
+Caused by: java.io.EOFException: Can not read response from server. Expected to read 4 bytes, read 0 bytes before connection was unexpectedly lost.
+	at com.mysql.jdbc.MysqlIO.readFully(MysqlIO.java:3011)
+	at com.mysql.jdbc.MysqlIO.reuseAndReadPacket(MysqlIO.java:3469)
+	... 50 more
+
+18:43:42,613 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+18:43:42,926 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+18:43:42,926 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+18:43:42,941 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+18:43:42,941 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+18:43:42,941 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+18:43:42,941 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+18:43:42,957 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+18:43:42,957 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+18:43:42,957 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+18:43:42,957 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+18:43:42,957 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+18:43:42,973 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+18:43:42,988 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+18:43:42,988 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+18:43:42,988 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+18:43:42,988 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+18:43:42,988 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=218 ms, enhance=125 ms, total=343 ms. Compruebe el LOG para los detalles
+18:44:17,832 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+18:44:18,074 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+18:44:18,074 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+18:44:18,074 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+18:44:18,074 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+18:44:18,090 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+18:44:18,090 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+18:44:18,090 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+18:44:18,090 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+18:44:18,105 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+18:44:18,105 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+18:44:18,105 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+18:44:18,105 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+18:44:18,121 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+18:44:18,121 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+18:44:18,121 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+18:44:18,121 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+18:44:18,121 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=157 ms, enhance=110 ms, total=267 ms. Compruebe el LOG para los detalles
