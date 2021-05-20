@@ -12,6 +12,7 @@ import java.util.HashMap;
 import server.LD.Investigador;
 import server.LD.Organizacion;
 import server.LD.Repositorio;
+import javax.jdo.Extent;
 
 public class DAO implements IDAO
 {
@@ -33,12 +34,12 @@ public class DAO implements IDAO
 
         try {
             transaction.begin();
-            @SuppressWarnings("unchecked")
-            Query<Investigador> investigadorQuery = this.persistentManager.newQuery("SELECT * FROM " + Investigador.class.getName());
 
-            for (Investigador investigador : investigadorQuery.executeList()) {
-                //No tengo claro como funciona el parseo de Query<Investigador> a List<Investigador>
-                //System.out.println("- Selected from db: " + investigador.nombre);
+            Extent<Investigador> extentInv = persistentManager.getExtent(Investigador.class, true);
+
+            for (Investigador i : extentInv)
+            {
+                listaInvestigadores.add(i);
             }
             transaction.commit();
         }

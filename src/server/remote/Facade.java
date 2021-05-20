@@ -6,6 +6,8 @@ import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
 import java.util.ArrayList;
 import server.appService.AppService;
+import server.dao.DAO;
+import server.LD.Investigador;
 
 public class Facade extends UnicastRemoteObject implements IFacade {
 
@@ -17,6 +19,7 @@ public class Facade extends UnicastRemoteObject implements IFacade {
   @Override
   public String sayHello() throws RemoteException {
     System.out.println("Client connected!");
+
     return "Hello World!";
   }
 

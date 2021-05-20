@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import server.dao.IDAO;
 import server.dao.DAO;
+import server.LD.Investigador;
 
 public class AppService {
 
@@ -33,6 +34,10 @@ public class AppService {
       this.IDao = (IDAO) new DAO();
       this.IDao.uploadInvestigadores(this.res);
 
+      /*DAO a = new DAO();
+      ArrayList <Investigador> ab = a.getInvestigadores();
+      System.out.println(ab);*//
+
     } catch (Exception e) {
       System.out.println("Catched exception: " + e.getMessage());
     }
@@ -55,8 +60,11 @@ public class AppService {
   public String obtenerRepositorios() {
 
     try {
-      this.res = restClient.obtenerRepositorios();
       this.IDao = (IDAO) new DAO();
+      ArrayList <Investigador> ab = this.IDao.getInvestigadores();
+
+      this.res = restClient.obtenerRepositorios();
+
       this.IDao.uploadRepositorios(this.res);
 
     } catch (Exception e) {
