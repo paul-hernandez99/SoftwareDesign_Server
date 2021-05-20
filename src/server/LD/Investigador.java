@@ -15,7 +15,6 @@ public class Investigador {
     String apellido1=null;
     String apellido2=null;
     int edad=0;
-    Date fec_alta=null;
 
     @Column(name="id_organizacion")
     Organizacion organizacion;
@@ -26,7 +25,8 @@ public class Investigador {
     @Persistent(mappedBy="investigador")
     Set<Investigador_Equipo> investigador_equipo= new HashSet<>();
 
-
+    @Persistent(mappedBy="investigador")
+    Set<Repositorio> repositorio = new HashSet<Repositorio>();
 
     public Set<Investigador_Equipo> getInvestigador_Equipo() { return investigador_equipo;}
     public void setInvestigador_Equipo(Set<Investigador_Equipo> investigador_equipo) { this.investigador_equipo = investigador_equipo;}
@@ -51,10 +51,6 @@ public class Investigador {
 
     public int getEdad() { return edad; }
     public void setEdad(int edad) { this.edad = edad; }
-
-    public Date getFec_alta() { return fec_alta; }
-    public void setFec_alta(Date fec_alta) { this.fec_alta = fec_alta; }
-
 
     public Investigador(String nombre, String apellido1, String apellido2, int edad) {
         this.nombre = nombre;

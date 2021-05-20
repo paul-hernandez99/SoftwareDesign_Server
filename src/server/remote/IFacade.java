@@ -9,4 +9,5 @@ public interface IFacade extends Remote{
   String sayHello() throws RemoteException;
   String descargarUsuarios() throws RemoteException;
   String descargarOrganizaciones() throws RemoteException;
+  String descargarRepositorios() throws RemoteException;
 }

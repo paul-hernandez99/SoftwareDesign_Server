@@ -51,4 +51,18 @@ public class AppService {
     }
     return "Correct download organizations!";
   }
+
+  public String obtenerRepositorios() {
+
+    try {
+      this.res = restClient.obtenerRepositorios();
+      this.IDao = (IDAO) new DAO();
+      this.IDao.uploadRepositorios(this.res);
+
+    } catch (Exception e) {
+      System.out.println("Catched exception: " + e.getMessage());
+    }
+    return "Correct download repositorios!";
+  }
+
 }

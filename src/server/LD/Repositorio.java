@@ -15,11 +15,12 @@ public class Repositorio {
     String nombre=null;
     String descripcion=null;
     String estado=null;
-    Date fec_comienzo=null;
-    Date fec_ultEdicion=null;
 
     @Column(name="id_equipo")
     Equipo equipo;
+
+    @Column(name="id_investigador")
+    Investigador investigador;
 
     @Column(name="id_tematica")
     Tematica tematica;
@@ -45,12 +46,6 @@ public class Repositorio {
     public String getEstado() { return estado; }
     public void setEstado(String estado) { this.estado = estado; }
 
-    public Date getFec_comienzo() { return fec_comienzo; }
-    public void setFec_comienzo(Date fec_comienzo) { this.fec_comienzo = fec_comienzo; }
-
-    public Date getFec_ultEdicion() { return fec_ultEdicion; }
-    public void setFec_ultEdicion(Date fec_ultEdicion) { this.fec_ultEdicion = fec_ultEdicion; }
-
     public Equipo getEquipo() { return equipo; }
     public void setEquipo(Equipo equipo) { this.equipo = equipo; }
 
@@ -60,11 +55,9 @@ public class Repositorio {
     public Proyecto getProyecto() { return proyecto; }
     public void setProyecto(Proyecto proyecto) { this.proyecto = proyecto; }
 
-    public Repositorio(String nombre, String descripcion, String estado, Date fec_comienzo, Date fec_ultEdicion) {
+    public Repositorio(String nombre, String descripcion, String estado) {
         this.nombre = nombre;
         this.descripcion = descripcion;
         this.estado = estado;
-        this.fec_comienzo=fec_comienzo;
-        this.fec_ultEdicion=fec_ultEdicion;
     }
 }

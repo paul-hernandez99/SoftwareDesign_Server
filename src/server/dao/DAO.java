@@ -11,6 +11,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import server.LD.Investigador;
 import server.LD.Organizacion;
+import server.LD.Repositorio;
 
 public class DAO implements IDAO
 {
@@ -84,6 +85,30 @@ public class DAO implements IDAO
 
             for(int i=0; i<organizaciones.size(); i++) {
                 persistentManager.makePersistent(new Organizacion(organizaciones.get(i).get("login"),"",organizaciones.get(i).get("description"),""));
+            }
+
+            this.transaction.commit();
+
+        } catch(Exception ex) {
+
+            System.err.println("* Exception executing a query: " + ex.getMessage());
+
+        } finally {
+
+            if (this.transaction.isActive())
+                this.transaction.rollback();
+            this.persistentManager.close();
+        }
+    }
+
+    @Override
+    public void uploadRepositorios(ArrayList<HashMap<String, String>> repositorios) {
+
+        try {
+            this.transaction.begin();
+
+            for(int i=0; i<repositorios.size(); i++) {
+                persistentManager.makePersistent(new Repositorio(repositorios.get(i).get("name"), repositorios.get(i).get("description"), ""));
             }
 
             this.transaction.commit();

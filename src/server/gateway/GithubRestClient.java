@@ -66,4 +66,11 @@ public class GithubRestClient implements IGithubRestClient {
         this.changeAccessPoint("organizations");
         return this.makeGetRequest();
     }
+
+    @Override
+    public ArrayList<HashMap<String, String>> obtenerRepositorios() throws Exception {
+
+        this.changeAccessPoint("users/mojombo/repos");
+        return this.makeGetRequest();
+    }
 }
