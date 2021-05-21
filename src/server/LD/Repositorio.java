@@ -19,7 +19,7 @@ public class Repositorio {
     @Column(name="id_equipo")
     Equipo equipo;
 
-    @Column(name="id_investigador")
+    @Column(name="id_investigador") //NaN?
     Investigador investigador;
 
     @Column(name="id_tematica")

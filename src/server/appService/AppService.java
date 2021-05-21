@@ -14,11 +14,11 @@ public class AppService {
   private IGithubRestClient restClient;
   private ArrayList<HashMap<String, String>> res;
   private IDAO IDao;
+  private ArrayList<Investigador> investigadores;
 
   private static AppService appservice = new AppService();//Singleton
 
   private AppService() {
-
     this.restClient = (IGithubRestClient) new GithubRestClient();
   }
   //Método para obtener instancia única del appService
@@ -30,25 +30,25 @@ public class AppService {
   public String obtenerUsuarios() {
 
     try {
-      this.res = restClient.obtenerUsuarios();
       this.IDao = (IDAO) new DAO();
+      this.res = restClient.obtenerUsuarios();
       this.IDao.uploadInvestigadores(this.res);
 
       /*DAO a = new DAO();
       ArrayList <Investigador> ab = a.getInvestigadores();
-      System.out.println(ab);*//
+      System.out.println(ab);*/
 
     } catch (Exception e) {
       System.out.println("Catched exception: " + e.getMessage());
     }
-    return "Correct!";
+    return "Correct dowload users!";
   }
 
   public String obtenerOrganizaciones() {
 
     try {
-      this.res = restClient.obtenerOrganizaciones();
       this.IDao = (IDAO) new DAO();
+      this.res = restClient.obtenerOrganizaciones();
       this.IDao.uploadOrganizaciones(this.res);
 
     } catch (Exception e) {
@@ -61,16 +61,17 @@ public class AppService {
 
     try {
       this.IDao = (IDAO) new DAO();
-      ArrayList <Investigador> ab = this.IDao.getInvestigadores();
-
-      this.res = restClient.obtenerRepositorios();
-
-      this.IDao.uploadRepositorios(this.res);
+      this.investigadores = this.IDao.getInvestigadores();
+      for(int i=0; i<3; i++) {
+        this.IDao = (IDAO) new DAO();
+        this.res = this.restClient.obtenerRepositorios("users/"+investigadores.get(i).getNombre()+"/repos");
+        this.IDao.uploadRepositorios(this.res);
+      }
 
     } catch (Exception e) {
-      System.out.println("Catched exception: " + e.getMessage());
+      e.printStackTrace();
     }
-    return "Correct download repositorios!";
+    return "Correct download repositories!";
   }
 
 }

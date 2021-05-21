@@ -107,12 +107,14 @@ public class DAO implements IDAO
 
         try {
             this.transaction.begin();
-
             for(int i=0; i<repositorios.size(); i++) {
-                persistentManager.makePersistent(new Repositorio(repositorios.get(i).get("name"), repositorios.get(i).get("description"), ""));
+
+                persistentManager.makePersistent(new Repositorio(repositorios.get(i).get("name"), "", ""));
             }
 
             this.transaction.commit();
+
+            System.out.println("Repositories of the user saved in the BD correctly!");
 
         } catch(Exception ex) {
 

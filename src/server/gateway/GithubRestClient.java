@@ -41,14 +41,12 @@ public class GithubRestClient implements IGithubRestClient {
       if (response.getStatus() == Status.OK.getStatusCode()) {
         ArrayList<HashMap<String, String>> datos = new ArrayList();
         JSONArray array = response.readEntity(JSONArray.class);
-        for(int i=0; i<10; i++) {
+        for(int i=0; i<3; i++) {
           datos.add((HashMap<String, String>)array.get(i));
-          System.out.println(array.get(i));
         }
         return datos;
 
       } else {
-
           throw new Exception("BadAss error ");
       }
     }
@@ -68,9 +66,8 @@ public class GithubRestClient implements IGithubRestClient {
     }
 
     @Override
-    public ArrayList<HashMap<String, String>> obtenerRepositorios() throws Exception {
-
-        this.changeAccessPoint("users/mojombo/repos");
+    public ArrayList<HashMap<String, String>> obtenerRepositorios(String accessPoint) throws Exception {
+        this.changeAccessPoint(accessPoint);
         return this.makeGetRequest();
     }
 }

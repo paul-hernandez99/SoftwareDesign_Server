@@ -7,5 +7,5 @@ public interface IGithubRestClient {
 
   public ArrayList<HashMap<String, String>> obtenerUsuarios() throws Exception;
   public ArrayList<HashMap<String, String>> obtenerOrganizaciones() throws Exception;
-  public ArrayList<HashMap<String, String>> obtenerRepositorios() throws Exception;
+  public ArrayList<HashMap<String, String>> obtenerRepositorios(String accessPoint) throws Exception;
 }
