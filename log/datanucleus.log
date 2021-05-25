@@ -2502,3 +2502,165 @@ org.datanucleus.exceptions.NucleusUserException: Variable 'u' is unbound and can
 16:11:23,997 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Documents\ProyectoFinal\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
 16:11:23,997 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
 16:11:23,997 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=216 ms, enhance=138 ms, total=354 ms. Compruebe el LOG para los detalles
+22:54:15,248 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+22:54:15,791 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+22:54:15,792 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+22:54:15,811 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+22:54:15,812 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+22:54:15,828 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+22:54:15,830 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+22:54:15,847 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+22:54:15,850 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+22:54:15,875 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+22:54:15,876 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+22:54:15,891 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+22:54:15,892 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+22:54:15,900 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+22:54:15,913 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+22:54:15,948 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+22:54:15,950 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+22:54:15,953 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=424 ms, enhance=264 ms, total=688 ms. Compruebe el LOG para los detalles
+23:22:11,437 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+23:22:11,873 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+23:22:11,874 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+23:22:11,886 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+23:22:11,887 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+23:22:11,906 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+23:22:11,908 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+23:22:11,917 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+23:22:11,919 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+23:22:11,927 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+23:22:11,928 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+23:22:11,939 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+23:22:11,940 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+23:22:11,951 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+23:22:11,952 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+23:22:11,973 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+23:22:11,974 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+23:22:11,977 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=325 ms, enhance=197 ms, total=522 ms. Compruebe el LOG para los detalles
+23:26:14,482 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+23:26:14,816 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+23:26:14,817 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+23:26:14,826 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+23:26:14,827 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+23:26:14,834 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+23:26:14,836 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+23:26:14,846 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+23:26:14,847 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+23:26:14,854 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+23:26:14,855 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+23:26:14,861 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+23:26:14,868 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+23:26:14,880 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+23:26:14,882 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+23:26:14,895 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+23:26:14,896 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+23:26:14,897 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=241 ms, enhance=159 ms, total=400 ms. Compruebe el LOG para los detalles
+23:27:59,472 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+23:27:59,786 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+23:27:59,787 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+23:27:59,799 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+23:27:59,800 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+23:27:59,807 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+23:27:59,809 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+23:27:59,814 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+23:27:59,815 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+23:27:59,821 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+23:27:59,822 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+23:27:59,829 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+23:27:59,830 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+23:27:59,837 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+23:27:59,838 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+23:27:59,854 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+23:27:59,855 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+23:27:59,857 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=211 ms, enhance=164 ms, total=375 ms. Compruebe el LOG para los detalles
+23:37:03,010 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+23:37:03,647 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+23:37:03,648 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+23:37:03,667 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+23:37:03,669 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+23:37:03,692 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+23:37:03,693 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+23:37:03,707 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+23:37:03,709 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+23:37:03,720 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+23:37:03,722 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+23:37:03,751 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+23:37:03,754 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+23:37:03,782 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+23:37:03,785 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+23:37:03,821 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+23:37:03,822 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+23:37:03,824 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=486 ms, enhance=306 ms, total=792 ms. Compruebe el LOG para los detalles
+23:41:53,569 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+23:41:54,428 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+23:41:54,430 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+23:41:54,443 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+23:41:54,444 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+23:41:54,456 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+23:41:54,457 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+23:41:54,472 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+23:41:54,477 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+23:41:54,488 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+23:41:54,489 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+23:41:54,502 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+23:41:54,503 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+23:41:54,514 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+23:41:54,527 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+23:41:54,585 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+23:41:54,587 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+23:41:54,589 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=678 ms, enhance=261 ms, total=939 ms. Compruebe el LOG para los detalles
+23:42:52,524 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+23:42:52,887 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+23:42:52,888 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+23:42:52,900 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+23:42:52,901 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+23:42:52,911 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+23:42:52,912 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+23:42:52,921 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+23:42:52,922 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+23:42:52,931 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+23:42:52,932 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+23:42:52,939 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+23:42:52,940 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+23:42:52,949 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+23:42:52,950 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+23:42:52,968 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+23:42:52,969 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+23:42:52,970 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=271 ms, enhance=165 ms, total=436 ms. Compruebe el LOG para los detalles
+23:43:17,689 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+23:43:18,506 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+23:43:18,508 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+23:43:18,523 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+23:43:18,525 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+23:43:18,540 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+23:43:18,541 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+23:43:18,582 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+23:43:18,584 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+23:43:18,593 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+23:43:18,595 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+23:43:18,616 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+23:43:18,618 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+23:43:18,653 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+23:43:18,656 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+23:43:18,676 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+23:43:18,678 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+23:43:18,680 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=430 ms, enhance=540 ms, total=970 ms. Compruebe el LOG para los detalles
+01:51:25,219 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer (versión 5.2.7) para el API "JDO" utilisando el JRE "{2}"
+01:51:25,752 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Avance.class" con definicion enhanced
+01:51:25,753 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Avance
+01:51:25,772 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Equipo.class" con definicion enhanced
+01:51:25,774 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Equipo
+01:51:25,791 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador.class" con definicion enhanced
+01:51:25,792 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador
+01:51:25,804 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Investigador_Equipo.class" con definicion enhanced
+01:51:25,807 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Investigador_Equipo
+01:51:25,818 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Organizacion.class" con definicion enhanced
+01:51:25,819 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Organizacion
+01:51:25,844 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Proyecto.class" con definicion enhanced
+01:51:25,849 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Proyecto
+01:51:25,864 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Repositorio.class" con definicion enhanced
+01:51:25,876 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Repositorio
+01:51:25,896 (main) INFO  [DataNucleus.Enhancer] - Escribiendo el archivo de clase "C:\Users\Alumno\Desktop\server\SoftwareDesign_Server\target\classes\server\LD\Tematica.class" con definicion enhanced
+01:51:25,898 (main) INFO  [DataNucleus.Enhancer] - ENHANCED (Persistable) : server.LD.Tematica
+01:51:25,899 (main) INFO  [DataNucleus.Enhancer] - DataNucleus Enhancer ha terminado con exito para 8 clases. Tiempos : input=385 ms, enhance=282 ms, total=667 ms. Compruebe el LOG para los detalles

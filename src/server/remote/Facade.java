@@ -4,12 +4,17 @@ import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
 import java.rmi.registry.Registry;
 import java.rmi.server.UnicastRemoteObject;
-import java.util.ArrayList;
+import java.util.HashMap;
+
 import server.appService.AppService;
-import server.dao.DAO;
-import server.LD.Investigador;
+
 
 public class Facade extends UnicastRemoteObject implements IFacade {
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 
 	protected Facade() throws RemoteException
 	{
@@ -24,17 +29,17 @@ public class Facade extends UnicastRemoteObject implements IFacade {
   }
 
   @Override
-  public String descargarUsuarios() throws RemoteException{
+  public String descargarUsuarios(HashMap<String,String> datos) throws RemoteException{
     return AppService.getInstance().obtenerUsuarios();
   }
 
   @Override
-  public String descargarOrganizaciones() throws RemoteException {
+  public String descargarOrganizaciones(HashMap<String,String> datos) throws RemoteException {
 		return AppService.getInstance().obtenerOrganizaciones();
 	}
 
 	@Override
-	public String descargarRepositorios() throws RemoteException {
+	public String descargarRepositorios(HashMap<String,String> datos) throws RemoteException {
 		return AppService.getInstance().obtenerRepositorios();
 	}
 
