@@ -14,7 +14,7 @@ public class Investigador {
     String nombre = null;
     String apellido1=null;
     String apellido2=null;
-    int edad=0;
+
 
     @Column(name="id_organizacion")
     Organizacion organizacion;
@@ -49,14 +49,12 @@ public class Investigador {
     public String getApellido2() { return apellido2; }
     public void setApellido2(String apellido2) { this.apellido2 = apellido2; }
 
-    public int getEdad() { return edad; }
-    public void setEdad(int edad) { this.edad = edad; }
 
     public Investigador(String nombre, String apellido1, String apellido2, int edad) {
         this.nombre = nombre;
         this.apellido1 = apellido1;
         this.apellido2 = apellido2;
-        this.edad = edad;
+ 
     }
 
 }
